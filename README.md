@@ -20,10 +20,6 @@ This project is designed to detect fake news using a machine learning model. It 
 
 The backend model is a LSTM (Long Short-Term Memory) network that has been trained on a comprehensive dataset of fake and real news articles. This model is capable of understanding the context in the text due to its deep learning capabilities.
 
-## Getting Started
 
-### Prerequisites
-
-Ensure you have Python installed on your system. You can download it from here: [Python](https://www.python.org/downloads/).
 
 
